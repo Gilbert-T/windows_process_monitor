@@ -1,0 +1,2 @@
+# windows_process_monitor
+用于监控windows平台的进程状态，并将监控指标暴露给Prometheus.
